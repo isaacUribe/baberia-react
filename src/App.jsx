@@ -4,6 +4,9 @@ import Productos from "./components/Productos"
 import Clientes from "./components/Clientes"
 import Barberos from "./components/Barberos"
 
+
+
+
 function App() {
 
   const router = createBrowserRouter(
